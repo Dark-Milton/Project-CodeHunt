@@ -1,6 +1,8 @@
-# untitled1
+# Project CodeHunt
 
-A new Flutter project.
+Flutter Project - Project CodeHunt
+
+My First ever Hands-On Flutter-Dart Project of "My Profile". It's Simple now but I may add new changes soon..... Thanks to PF Software Solutions for this wonderful Bootcamp which helped me for development of this Project.
 
 ## Getting Started
 
