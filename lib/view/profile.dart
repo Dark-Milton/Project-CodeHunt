@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class ProfilePage extends StatelessWidget {
@@ -53,7 +51,7 @@ class ProfilePage extends StatelessWidget {
                           decoration: BoxDecoration(
                             color: Colors.indigo,
                             borderRadius: BorderRadius.circular(125),
-                            image: DecorationImage(
+                            image: const DecorationImage(
                               image: AssetImage(
                                 "Profilepic.png"),
                                 fit: BoxFit.fitHeight
